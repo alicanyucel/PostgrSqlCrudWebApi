@@ -1,0 +1,6 @@
+@PostgrSqlCrudWebApi_HostAddress = http://localhost:5152
+
+GET {{PostgrSqlCrudWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
